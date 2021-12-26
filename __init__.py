@@ -1,1 +1,1 @@
-from .ini_parser import IniParserSingleton
+from .ini_config_parser import IniParserSingleton

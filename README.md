@@ -33,7 +33,7 @@ TOKEN = "bar"
 ```
 
 Now if you run `python3 your_project.py prod`: PORT == 8000 and TOKEN == "foo"
-If you run `python3 your_project.py test`: PORT == 1000 and TOKEN == "bar
+If you run `python3 your_project.py test`: PORT == 1000 and TOKEN == "bar"
 
 You can also get current environment from file:
 
